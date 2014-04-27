@@ -1,4 +1,4 @@
-## This functions create a specail "matrix" that cna chache ist inverse
+## This functions create a specail "matrix" that can chache its inverse
 ## base on sample function makeVector and chacheVector
 
 ## Create special "matrix" object
